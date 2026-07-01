@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Test / working artifacts
+*.txt
+!requirements*.txt
+*_tran.docx
+*_tran.pptx
+*_tran.xlsx
+*_tran.html
+*.chm
+*_chm/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
